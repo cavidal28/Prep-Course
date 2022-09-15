@@ -1,0 +1,9 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+como si se lo estuvieras explicando a un niño de 12 años. 
+
+
+ * Variables: es una forma de crear y almacenar el valor de algo para ser utilizado mas tarde en el codigo.
+ * Strings: Sob bloques de texto y siempre van definidos entre comillas sencillas o dobles.
+ * Funciones (argumentos, `return`): los argumentos son las variables a utilizar dentro de la funcion y el return es lo que queremos que nos devuelva esa funcion
+ * Declaraciones `if` es la manera de que nuestro sistema mediante una funcion compruebe si algo es true o false.
+ * Valores booleanos (`true`, `false`) los valores booleanos son como los numeros binarios 0,1, sirven para comprobar la veracidad de una funcion.
