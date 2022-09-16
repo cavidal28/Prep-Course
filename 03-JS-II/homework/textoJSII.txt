@@ -1,0 +1,6 @@
+Explicar los siguientes conceptos:
+
+FOR: es um bucle que lleva como premisa 3 componentes, una variable, una expresion condicional y un incremento de la variable. Dentro de este bucle se ejecutara una función siempre y cuando se cumpla la expresión condicional.
+&&: mejor conocido como 'Y', es un operador logico que evalua ambas expresiones y si las dos son verdaderas, arroja un TRUE.
+||: mejor conocido como 'O', es otro operador logico que evalua ambas expresiones pero solo necesita una de ellas para arrojar un TRUE de lo contrario si una es negativa, arrojará un FALSE.
+!: operador logico conocido comom 'NOT', sirve para devolver en valor booleano opuesto al valor de entrada.
