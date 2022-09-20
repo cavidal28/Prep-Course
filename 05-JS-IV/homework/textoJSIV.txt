@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos, son contenedores de datos que poseen mucha información de un solo elemento.
+Propiedades son los valores que se le asignan a cada clave dentro del objeto.
+Métodos son funciones guardadas dentro de los objetos.
+Bucle for…in, sirve para iterar sobre cada par clave-valor dentro de nuestro objeto.
+Notación de puntos vs notación de corchetes son maneras de acceder a propiedades dentro de un obejto. La diferencia es que por punto es un propiedad especifica, por corchetes es una cadena de datos.
