@@ -1,0 +1,3 @@
+Que es un Array:
+
+Array o arreglos son un grupo de datos que se guardan en una matriz y van en tres tipos, numeros, string y booleanos.
