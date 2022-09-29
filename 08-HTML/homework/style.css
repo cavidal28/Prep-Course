@@ -1,0 +1,135 @@
+body {
+    font-family: Arial,Helvetica,sans-serif
+}
+.mensaje-inferior {
+    display: flex;
+}
+.menu-superior {
+    height: 136px;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+.logo{
+    height: 136px;
+    width: 127px;
+}
+.menu {
+    display: flex;
+    align-items: flex-end;
+    font-size: 16px;
+}
+li.active {
+    font-weight: 600;
+    font-size: 18px;
+}
+ul li {
+    list-style: none;
+    border-left: 2px solid #3ca0e7;
+    display: inline-block;
+    padding: 0 30px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+
+li a {
+    color: black;
+    text-decoration: none;
+}
+.mensaje-inferior{
+    background-color: rgb(8, 66, 72);
+    height: 468px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.mensaje1{
+    font-size: 33px;
+    letter-spacing: normal;
+    text-align: center;
+    width: 100%;
+    color: white;
+    line-height: 80px;
+}
+.inno{
+    font-size: 82;
+    font-weight: bold;
+    color: black;
+}
+.renta{
+    font-size: 82;
+    font-weight: 500;
+    color: black;
+}
+.informacion{
+    background-color: rgb(8, 66, 72);
+    height: 800px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 30px;
+    display: none;
+    flex-flow: column;
+}
+.parrafo-container{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.info1{
+    letter-spacing: normal;
+    text-align: left;
+    line-height: 30px;
+    text-align: justify;
+    width: 300px;
+}
+.titulo{
+    font-size: 60px;
+}
+.lista{
+    font-size: 15px;
+    letter-spacing: normal;
+    text-align: left;
+    color: black;
+    line-height: 30px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.ctipica{
+    font-size: 20px;
+    font-weight: bold;
+}
+.comida{
+    border-top: 3px solid black;
+    width: 200px;
+    margin-left: 0;
+}
+.info.contacto{
+    font-size: 12px;
+    letter-spacing: normal;
+    text-align: left;
+    color: black;
+    line-height: 30px;
+}
+.fb{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+    padding-bottom: 100;
+}
+
+.logo_insta{
+    height:50px;
+    width: 50px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.imgcomida{
+    height:80px;
+    width: 80px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
